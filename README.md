@@ -23,7 +23,7 @@ Pilih opsi Run 'Main.main()'.
 Hasil luaran (output) dari program sistem SPBU Anda akan langsung muncul di panel Run di bagian bawah layar IntelliJ IDEA!
 
 ini adalah hasil output programnya
-<img width="1920" height="1080" alt="Cuplikan layar dari 2026-11-08 04-09-17" src="https://github.com/user-attachments/assets/ba585f71-2bf1-4293-89f4-8a5f3edd5455" />
 
-<img width="1920" height="1080" alt="Cuplikan layar dari 2026-11-08 04-09-27" src="https://github.com/user-attachments/assets/86d6d80c-bf6b-4aa8-9c26-86f189e841a1" />
+<img width="1329" height="839" alt="Cuplikan layar dari 2026-11-08 04-09-17" src="https://github.com/user-attachments/assets/731f7198-98df-4412-a909-934e75104cb0" />
 
+<img width="951" height="867" alt="Cuplikan layar dari 2026-11-08 04-09-27" src="https://github.com/user-attachments/assets/ad001956-7144-49b3-9dab-67b22e9a8b8d" />
